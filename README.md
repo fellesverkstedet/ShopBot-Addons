@@ -10,10 +10,10 @@ A collections designs for improving workflow on your ShopBot CNC milling machine
 ![Dust Shoe open](https://github.com/fellesverkstedet/ShopBot-Addons/blob/master/dust%20extraction%20shoe%20for%20ShopBot%20alpha/Dust-shoe-open.JPG)
 *open*
 
-* A dust shoe split in two with snap connection
-* Makes it easier and faster to chnge milling bits
-* Makes it possbile to choose between visual oversight on milling action, maximum dus extraction
-* Materials: Polycarboanate, Polyethylene, Leather and nuts and bolts
+* A dust shoe split in two with a snap connection
+* Makes it easier and faster to change milling bits
+* Makes it possible to choose between visual oversight on milling action, or maximum dust extraction
+* Materials: polycarboanate, polyethylene, leather and nuts and bolts
 
 
 
@@ -24,6 +24,7 @@ A collections designs for improving workflow on your ShopBot CNC milling machine
 * A holder for milling bits, collets and chucks
 * Gives visual oversight of milling bits available
 * Designed to fit on top of [hat systems](https://github.com/fellesverkstedet/hat-systems) europallet based workshop furniture
+* Materials: Valchromat 19mm / 19mm HDF
 
 
 
@@ -35,6 +36,7 @@ A collections designs for improving workflow on your ShopBot CNC milling machine
 * Desgned to give the feeling of operating the ShopBot directly, not remote controlling it
 * Makes zeroing faster and easier
 * Makes the e-stop available
+* Materials: Valchromat 19mm and 8mm
 
 
 
