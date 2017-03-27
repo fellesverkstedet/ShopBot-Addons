@@ -2,45 +2,58 @@
 
 A collections designs for improving workflow on your ShopBot CNC milling machine.
 
-### Dust collector
+### Snap fit dust shoe
 
-![parts](./img/hank-part-overview.jpg)
-*bought parts on the left, self fabricated parts on the right*
+![Dust shoe closed](https://github.com/fellesverkstedet/ShopBot-Addons/blob/master/dust%20extraction%20shoe%20for%20ShopBot%20alpha/Dust-shoe-closed.JPG)
+*closed*
 
-![hank](./img/hank-first-cut.jpg)
-*Hank after his first test job*
+![Dust Shoe open](https://github.com/fellesverkstedet/ShopBot-Addons/blob/master/dust%20extraction%20shoe%20for%20ShopBot%20alpha/Dust-shoe-open.JPG)
+*open*
 
-
-* A gantry based CNC milling machine where a substantial amount of the parts can be fabricated on a CNC mill
-* Linear rails, rack, pinion and glide blocks can all be fabricated on a conventional CNC milling machine
-* Based on the chamfer rail system in this repo
-* Work area is 600mm x 300mm x 50mm
-* The rack and pinion has 4.444444 steps per mm with a 200 step motor
-
-We are having challenges with the alu rails and pom glide blocks. It seems that the heavy weight creates alu dust. and the dust builds up and scratches the alu glide surface. this is only a problem so far on the x axis, since it carries.the weight of the gantry. we thought first it was wood dust scraping, but is seems to be alu dust, or abrasive from the metal grinder about 3m away from the machine. next we will try different glide block geometry, and different materials
-
-[Rhino source](./hank-cnc-mill-3dm.zip)
-
-[STEP 3D](./hank-cnc-mill-stp.zip)
-
-[DXF 2D](./hank-cnc-mill-dxf.zip)
-
-### To do
-
-* Make X rail be able to move smooth with the heavy weight of the gantry
-* Find a way to stop the X rails to scratch/wear from the pressure of the glide blocks
-* Do extensive testing
-* Improve documenation
-* Test self-replication
-
-### Handy replicape commands
-
-* M119 for get endstop sates
-* G92 for custom home example: G92 X0 Y0 Z0
+* A dust shoe split in two with snap connection
+* Makes it easier and faster to chnge milling bits
+* Makes it possbile to choose between visual oversight on milling action, maximum dus extraction
+* Materials: Polycarboanate, Polyethylene, Leather and nuts and bolts
 
 
-![rails](./img/hank-chamferrails.jpg)
 
-![bed](./img/trimming-hdf-sandwhich-for-bed-and-gantry.jpg)
+### CNC Toolstation
 
-![scrape](./img/reparing-scraped-rail-after-first-cut.jpg)
+![Toolsation](https://github.com/fellesverkstedet/ShopBot-Addons/blob/master/tool%20station/CNC-toolstation1.JPG)
+
+* A holder for milling bits, collets and chucks
+* Gives visual oversight of milling bits available
+* Designed to fit on top of [hat systems](https://github.com/fellesverkstedet/hat-systems) europallet based workshop furniture
+
+
+
+### Computer workstation
+
+![Workstation](https://github.com/fellesverkstedet/ShopBot-Addons/blob/master/computer%20workstation%20for%20shopbot%20alpha/ShopBot%20Workstation%20in%20use.JPG)
+
+* For the computer, screen, mouse, keyboard and e-stop needed to operate the ShopBot
+* Desgned to give the feeling of operating the ShopBot directly, not remote controlling it
+* Makes zeroing faster and easier
+* Makes the e-stop available
+
+
+
+### ShopBot cheklist
+
+![checklist](https://github.com/fellesverkstedet/ShopBot-Addons/blob/master/shopbot%20checklist/ShopBot%20checklist.jpg)
+
+* An 8 point checklist for everyday shopbot use
+* Functions as a band-aid for low quality interaction design in ShopBot interface
+* Designed to be monted on the computer workstation
+
+
+
+### Removable vacuum table
+
+* An experimantal vacuum table that can be mounted on the sacrafical layer when needed
+* Designed to be powered by a shop vac
+* Work area: 1200mm x 600mm
+* Seems promising but needs opimtizing
+
+
+
