@@ -26,7 +26,14 @@ A collections designs for improving workflow on your ShopBot CNC milling machine
 * Designed to fit on top of [hat systems](https://github.com/fellesverkstedet/hat-systems) europallet based workshop furniture
 * Materials: Valchromat 19mm / 19mm HDF
 
+### Small toolstation
 
+![Small Toolstation](https://github.com/fellesverkstedet/ShopBot-Addons/blob/master/tool%20station/IMG-7005.JPG)
+
+* Holder for milling bits, collets and chucks, drill, calipers and screw boxes
+* Gives visual oversight of milling bits available
+* Designed to hang on wall next to the machine
+* Materials: Valchromat 19mm / 19 mm HDF
 
 ### Computer workstation
 
